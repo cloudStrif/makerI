@@ -1,0 +1,25 @@
+bugs and corrections : 
+Gravity set 
+map size thanks to Grid 
+changing background image has to be performed
+menu set 
+system of tile set but a error occured 
+problem solved -> use a list to memorise tiles
+history of move set -> do not forget to change 
+Correction generate file with the tree file and with the menu.
+Debug History 
+move of a character fly and gravity and fireball (examples ) 
+reorganisation of record and loading files 
+*.tl and *.tl2 new files -> note that we use a fast method for loading objects
+history has to be performed 
+Buttons useless for the moment for isometrci view ..
+
+when changing mapping design , change components too.
+-> think of a new cool design to build
+Starting work with the isometric view 
+[do not forget the gestion of the main ennemies components]
+TODO :: 
+managing the move of the mouse on the grid 
+managing the new grid container ---> (pointeur fix) 
+change container for each mapping test ?? 
+

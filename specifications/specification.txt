@@ -1,0 +1,27 @@
+=====MiniMarioMaker=======
+==========================
+
+How to use it :
+Linux :
+        -execute the bash file compile.sh
+
+
+The program has to be able to create some levels designs of classic  game
+and so , run them into a game thank's to the remote control.
+
+The programm needs to be pleasant to use.
+
+Start to devellop the game with Mario. 
+
+Firstable all in public.-> Test avalanche
+
+
+JAVA7 -> all things are in FINAL (public access).
+(Conversion later )
+JAVA8 -> not nescessary.
+
+
+==========================
+
+Use the following example :
+To run : java -cp ".;json.jar" edu.sjsu.myapp.Main

@@ -1,0 +1,5 @@
+Tuto:le tableau de Tiles est a droite de l ecran ,
+selectionne avec la souris le tile que tu veux ,
+pour cela clic sur les 2 extremites.puis re-appui
+sur le bouton tile pour pouvoir placer ta nouvelle tile !
+Clic GAUCHE pour choisir la taille du TILE.
